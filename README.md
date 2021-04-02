@@ -18,6 +18,12 @@ These map to some big ideas we will cover in the workshop
 5. Validation = "it makes sense that..."
 6. Cognitive Restructuring = countering cognitive distortions
 
+## Structure
+You will get to talk about real issues on your mind with people who are ready to actively listen.
+
+Casey's hands-on workshop format is inspired by his experience teaching software development, dance, and music. Casey balances presentation with hands-on activities, alternating between them. Right before each activity, Casey shares the principles clearly and shares just enough story to make them memorable. Workshop attendees then apply the skills to their own problems in small randomly-assigned breakout groups. For some topics we will use the meeting’s sidebar chat for discussion.
+
+
 ## pre-work - brainstorm topics
 Before the session, come up with **three topics** that are on your mind lately that you would **like to discuss** in the pair braeakouts. 
 
