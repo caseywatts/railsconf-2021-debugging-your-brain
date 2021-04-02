@@ -1,6 +1,9 @@
 # Debugging Your Brain, RailsConf 2021
 
-## Description
+Slides (will be linked here)
+Handout (will be linked here)
+
+## Overview
 
 How to Debug Your Brain:
 1. Notice a bug
