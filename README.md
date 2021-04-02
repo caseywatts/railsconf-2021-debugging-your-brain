@@ -2,7 +2,23 @@
 
 ## Description
 
-## Pre-work - brainstorm topics
+How to Debug Your Brain:
+1. Notice a bug
+2. Set a breakpoint
+3. Investigate the inputs
+4. Read the code until you truly understand it
+5. Write tests for it
+6. Refactor it / edit it to fix the bug
+
+These map to some big ideas we will cover in the workshop
+1. "Uh oh, a downward spiral / rumination!"
+2. Whoop! => Mindful Introspection
+3. The Four Inputs
+4. Processing Experiences = thinking, talking, writing, reading
+5. Validation = "it makes sense that..."
+6. Cognitive Restructuring = countering cognitive distortions
+
+## pre-work - brainstorm topics
 Before the session, come up with **three topics** that are on your mind lately that you would **like to discuss** in the pair braeakouts. 
 
 Examples:
