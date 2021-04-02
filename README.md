@@ -4,11 +4,16 @@
 
 ## Pre-work - brainstorm topics
 Before the session, come up with **three topics** that are on your mind lately that you would **like to discuss** in the pair braeakouts. 
- * Examples: an argument at work, a sour conversation with your family, stressed about the world/news, feeling isolated over the past year
+
+Examples:
+* an argument at work
+* a sour conversation with your family
+* stressed about the world/news
+* feeling isolated over the past year
 
 What kind of topics?
  * Consider topics you find yourself **ruminating** on: thinking about a lot, accidentally focusing on the negative parts and how stressful they are instead of more helpful and productive thoughts.
- * Consider  topics that, when they come up, they cause you to have a **downward spiral** of negative thoughts leading to negative feelings leading to more negative thoughts, etc.
+ * Consider topics that, when they come up, cause you to have a **downward spiral** of negative thoughts leading to negative feelings leading to more negative thoughts, etc.
 
 Brainstorming Prompts
  * To help you brainstorm, some contexts:
